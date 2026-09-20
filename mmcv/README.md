@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/open-mmlab/mmcv/master/docs/mmcv-logo.png" width="300"/>
 </div>
 
-[![PyPI](https://img.shields.io/pypi/v/mmcv)](https://pypi.org/project/mmcv) [![badge](https://github.com/open-mmlab/mmcv/workflows/build/badge.svg)](https://github.com/open-mmlab/mmcv/actions) [![codecov](https://codecov.io/gh/open-mmlab/mmcv/branch/master/graph/badge.svg)](https://codecov.io/gh/open-mmlab/mmcv) [![license](https://img.shields.io/github/license/open-mmlab/mmcv.svg)](https://github.com/open-mmlab/mmcv/blob/master/LICENSE)
+[![PyPI](../assets/1a2a46ffb6.bin)](https://pypi.org/project/mmcv) [![badge](../assets/badge_1.svg)](https://github.com/open-mmlab/mmcv/actions) [![codecov](../assets/badge.svg)](https://codecov.io/gh/open-mmlab/mmcv) [![license](../assets/mmcv.svg)](https://github.com/open-mmlab/mmcv/blob/master/LICENSE)
 
 ## Introduction
 
